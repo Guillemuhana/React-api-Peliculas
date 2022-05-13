@@ -8,7 +8,7 @@ export function App() {
     <Router>
       <header>
         <Link to="/">
-          <h1 className={styles.title}>Peliculas de Samir y Alina</h1>
+          <h1 className={styles.title}>Max-Peliculas</h1>
         </Link>
       </header>
       <main>

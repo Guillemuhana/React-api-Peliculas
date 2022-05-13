@@ -13,4 +13,4 @@ export function get(path) {
     }).then((result) => result.json());
 }
 
-//convierto en json 
+//convierto en json genero ruta/ api-content-type copiar autirizacion de web

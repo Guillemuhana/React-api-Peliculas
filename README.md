@@ -1,2 +1,2 @@
 Peliculas api https://developers.themoviedb.org/ 
-GM Design
+Guillermo Muhana Design
